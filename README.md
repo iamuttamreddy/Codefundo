@@ -2,7 +2,7 @@ Heat waves are extended periods of extremely hot weather that have a major impac
 
 We propose an intelligent model to evaluate the risk associated with a heat wave. In order to answer how severe a heat wave is, it is important to consider intra-urban variability of the heat wave, as well as the local socio- economic factors and their geographical variation. LST images give the spatial temperature distributions and are a very vital part of climatology analysis. LST instances are fit into an climate model which considers other supporting data for risk prediction. Subsequently, heat wave events are identified, and relevant parameters are calculated, including their intensity, duration and time lag between two consecutive events. Artificial intelligence fuzzy logic was then used to characterise each heat wave event from mild to extreme (Classification of heat wave events). The accumulated monthly result was the monthly spatial distribution of heat wave hazard and the risk associated for a specific population are analysed.
 
-The interaction with the users is established with a help of a connected environment. The details of health parameters of the users are evaluated and the users possessing a risk are cautioned against venturing out. This information can be passed on to the user either via a mobile platform or any other connected device.
+The interaction with the user is established with a help of a connected environment. The details of health parameters of the users are evaluated and the users possessing a risk are cautioned against venturing out. This information can be passed on to the user either via a mobile platform or any other connected device.
 
 DATASETS
 
